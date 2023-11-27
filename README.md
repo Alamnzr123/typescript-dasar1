@@ -8,7 +8,7 @@ npm install
 
 tsc init
 
-make babel.config.js
-
 Run using "npm test"
+
+or Compile Typescript "npx tsc"
 ```
